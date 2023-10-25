@@ -2,7 +2,7 @@
 
 ## 가이드 
 
-1. https://github.com/edutak/git-1025에서 Fork를 한다.
+1. https://github.com/edutak/git-1025 에서 Fork를 한다.
 
 2. Fork 된 각자의 저장소를 clone 한다.
 
@@ -13,6 +13,6 @@ git clone https://~~~
 
 - 폴더를 확인하고 VS Code로 연다. 
 
-3. `홍길동.md` 처럼 본인 이름으로 된 마크다운 파일을 생성하고, 커밋
+3. `홍길동.md` 처럼 본인 이름으로 된 마크다운 파일을 생성하고, 커밋 (내용은 수업 리뷰, 질문 등. 공백 상관 X)
 
 4. push를 하고, GitHub에 들어와서 Pull Request를 보낸다.
